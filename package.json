@@ -27,7 +27,7 @@
     "angular7-data-table": "^1.0.13",
     "bootstrap": "^4.4.1",
     "firebase": "^7.13.1",
-    "firebase-tools": "^8.0.0",
+    "firebase-tools": "^12.0.0",
     "font-awesome": "^4.7.0",
     "g": "^2.0.1",
     "rxjs": "^6.3.3",
